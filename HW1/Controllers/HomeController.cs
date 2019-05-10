@@ -15,8 +15,6 @@ namespace HW1.Controllers
 
         public ActionResult FAQ()
         {
-            ViewBag.Message = "Your FAQ page.";
-
             return View();
         }
 
